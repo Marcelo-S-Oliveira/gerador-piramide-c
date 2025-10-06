@@ -16,7 +16,6 @@ Você precisará de um compilador C (como o GCC) instalado em sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/gerador-piramide-c.git](https://github.com/SEU-USUARIO/gerador-piramide-c.git)
     ```
 
 2.  **Navegue até o diretório do projeto:**
